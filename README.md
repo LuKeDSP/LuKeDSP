@@ -8,7 +8,7 @@
 
 ![Luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuKeDSP&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuKeDSP)](https://github.com/LuKeDSP)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuKeDSP&layout=compact)](https://github.com/LuKeDSP)
 
 ## Tecnologias que eu uso
 <div style="display: inline-block"><br>
