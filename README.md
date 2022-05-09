@@ -20,5 +20,5 @@
 ### Conquistas
 
 <div><br>
-    <img disabled align="center" alt="HTML5" src="seloOracle.png" width="300px" height="300px">
+    <img align="center" alt="HTML5" src="seloOracle.png" width="350px" height="350px" disabled>
 </div><br/>
